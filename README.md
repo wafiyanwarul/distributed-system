@@ -24,3 +24,17 @@ This repository contains the source code and learning materials for the Distribu
 ## Server Information
 
 All web services in this project communicate with a Debian server hosted at IP: `192.168.56.22`. The server manages the **toko** database, and all CRUD operations are performed on the **barang** table.
+
+## URLs for Each Protocol
+
+- **RPC Client**:  
+  [http://localhost:8080/www/rpc-xml-toko/client/index.php](http://localhost:8080/www/rpc-xml-toko/client/index.php)
+
+- **SOAP Client**:  
+  [http://localhost:8080/www/soap-toko/soap-client/index.php](http://localhost:8080/www/soap-toko/soap-client/index.php)
+
+- **WSDL NuSOAP Client**:  
+  [http://localhost:8080/www/wsdl-toko/client-nusoap/index.php](http://localhost:8080/www/wsdl-toko/client-nusoap/index.php)
+
+- **WSDL SOAP Client**:  
+  [http://localhost:8080/www/wsdl-toko/client-soap/index.php](http://localhost:8080/www/wsdl-toko/client-soap/index.php)
